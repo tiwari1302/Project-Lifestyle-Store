@@ -5,8 +5,8 @@ body{
 }
 
 a{
- text-decoration:none;
- background-color:transparent;
+ text-decoration: none;
+ background-color: transparent;
  color: #ededed;
 }
 
@@ -16,7 +16,7 @@ a{
  border-color:#080808;
  min-height:10px;
  border: 1px solid transparent;
- 
+ 	
  width: 100%;
  height: 50px;
  position:fixed;
@@ -42,6 +42,7 @@ a{
  padding: 15px 15px;
  font-size:16px;
  font-weight: bold;
+ text-decoration: none;
 }
 
 .content{
@@ -59,6 +60,7 @@ a{
 
 .inner-banner-image{
  padding-top:12%;
+ 
  display: flex;
  flex-direction: column;
  align-items: center;

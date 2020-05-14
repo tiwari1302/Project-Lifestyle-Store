@@ -42,9 +42,18 @@ a{
 
 
 .panel{
-margin: 150px 32% 24% 32%;
+margin: auto;
+margin-top: 10%;
+width: 40%;
 }
 
 .panel-heading{
 background-color:#0099FF;
 }
+
+.shashank{
+width: 35%;
+}
+
+.form-text-cus{
+width: 85%;}

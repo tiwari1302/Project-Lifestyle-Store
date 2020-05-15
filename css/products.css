@@ -1,0 +1,13 @@
+/* CSS Document */
+.items{
+ width:30%;
+ display: block;
+ padding: 4px;
+ margin-bottom: 20px;
+ line-height: 1.42857143;
+ background-color: #fff;
+ border: 1px solid #ddd;
+ border-radius: 4px;
+ float:left;
+ margin-left:1%;
+}

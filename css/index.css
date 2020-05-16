@@ -121,6 +121,7 @@ a{
 
 .footer{
  background-color: #101010;
+ position: absolute;
  padding: 10px 0;
  text-align: center;
  color:#9d9d9d;

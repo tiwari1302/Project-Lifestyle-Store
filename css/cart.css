@@ -1,0 +1,14 @@
+.footer{
+ background-color: #101010;
+ padding: 10px 0;
+ text-align: center;
+ position:absolute;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+ font-size:14px;
+}
+
+.main-table{
+margin-top: 160px;
+}

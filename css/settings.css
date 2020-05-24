@@ -11,3 +11,9 @@ margin-top: 110px;}
  width: 100%;
  font-size:14px;
 }
+
+.jumbotron{
+    margin-top: 90px;
+    color:#AB1970;
+    background-color: rgba(192, 242, 249, 0.801);
+}

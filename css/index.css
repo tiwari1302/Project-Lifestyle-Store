@@ -71,8 +71,9 @@ a{
  position: relative;
  padding-top: 6%;
  padding-bottom: 6%;
- width: 40em;
+ max-width: 660px;
  margin-bottom: 12%;
+ margin-top: 5%;
  background-color: rgba(0, 0, 0, 0.7);
 }
  

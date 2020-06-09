@@ -8,13 +8,14 @@
 	<script src="../jquery-3.5.1.min.js"></script>
 	<script src="../bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 </head>
-<body>
+<body class=" main-box-cus">
+<div>
     <?php include 'includes/header.php'; ?>
 
-	<div class="container-fluid main-box-cus">
+	<div class="container-fluid">
             <div class="row">
                     <div class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3">
-                        <h2>SIGN UP</h2>
+                        <h2 class="headtext">SIGN UP</h2>
                         <form method="post" action="signup_script.php">
                             <div class="form-group">
                                 <input class="form-control" placeholder="Name" name="name"  required = "true">
@@ -39,6 +40,8 @@
                     </div>
                 </div>
             </div>	
-			<?php include 'includes/footer.php'; ?>
+            <br><br><br><br><br><br>
+            <?php include 'includes/footer.php'; ?>
+        </div>
 </body>
 </html>

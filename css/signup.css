@@ -1,5 +1,7 @@
 .main-box-cus{
-margin-top: 110px;
+margin-top: 90px;
+background-color: #414040;
+padding-bottom: 50px;
 }
 
 
@@ -20,6 +22,10 @@ margin-top: 110px;
     margin:auto; 
     overflow:hidden;
     
+}
+
+.headtext{
+    color: whitesmoke;
 }
 
 @media (min-width: 641px) {

@@ -11,4 +11,10 @@
 
 .main-table{
 margin-top: 160px;
+margin-bottom: 90px;
 }
+
+html { 
+    min-height:100%;
+    position:relative;    
+} 

@@ -1,6 +1,12 @@
+html { 
+    min-height:100%;
+    position:relative;    
+} 
+
 body{
  width:100%;
- font-family: 'Roboto';
+ /*font-family: 'Roboto';*/
+ font-family: 'Poppins', sans-serif;
  height:100%;
  margin:0;
 }

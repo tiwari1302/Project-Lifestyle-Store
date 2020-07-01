@@ -1,5 +1,7 @@
 .main-box-cus{
-margin-top: 135px;}
+margin-top: 135px;
+margin-bottom: 90px;
+}
 
 .footer{
  background-color: #101010;
@@ -19,3 +21,8 @@ margin-top: 135px;}
  bottom: 0;
  width: 100%;
 }
+
+html { 
+    min-height:100%;
+    position:relative;    
+} 

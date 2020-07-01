@@ -17,3 +17,8 @@ body{
  width: 100%;
  font-size:14px;
 }
+
+html { 
+    min-height:100%;
+    position:relative;    
+} 
